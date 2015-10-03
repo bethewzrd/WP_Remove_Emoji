@@ -1,2 +1,4 @@
-# WP_Remove_Emoji
-Lightweight Plugin to Remove WordPress emoji code from the head.
+# WP Remove Emoji
+# Lightweight Plugin to Remove WordPress emoji code from the head.
+
+Got knowledge to improve this Plugin, feel free to f0rk it.
